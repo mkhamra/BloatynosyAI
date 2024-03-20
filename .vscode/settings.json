@@ -1,4 +1,7 @@
 {
     "dotnet.preferVisualStudioCodeFileSystemWatcher": true,
-    "nuget.autoOpenOutputWindowOnRestore": "on"
+    "nuget.autoOpenOutputWindowOnRestore": "on",
+    "code-runner.fileDirectoryAsCwd": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true
 }
