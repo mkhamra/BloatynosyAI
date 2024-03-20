@@ -1,0 +1,4 @@
+{
+    "dotnet.preferVisualStudioCodeFileSystemWatcher": true,
+    "nuget.autoOpenOutputWindowOnRestore": "on"
+}
